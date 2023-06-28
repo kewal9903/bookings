@@ -3,8 +3,8 @@ package render
 import (
 	"bytes"
 	"fmt"
-	"github.com/kewal9903/bookings-app/pkg/config"
-	"github.com/kewal9903/bookings-app/pkg/models"
+	"github.com/kewal9903/bookings/pkg/config"
+	"github.com/kewal9903/bookings/pkg/models"
 	"html/template"
 	"log"
 	"net/http"

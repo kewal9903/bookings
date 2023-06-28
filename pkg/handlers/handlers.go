@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"github.com/kewal9903/bookings-app/pkg/config"
-	"github.com/kewal9903/bookings-app/pkg/models"
-	"github.com/kewal9903/bookings-app/pkg/render"
+	"github.com/kewal9903/bookings/pkg/config"
+	"github.com/kewal9903/bookings/pkg/models"
+	"github.com/kewal9903/bookings/pkg/render"
 	"net/http"
 )
 
